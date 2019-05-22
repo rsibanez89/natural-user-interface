@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NIEventLogger" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\NIEventLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NICheckVersion">
+    <Position X="6.5" Y="10" Width="2.75" />
+    <NestedTypes>
+      <Struct Name="NICheckVersion.NIVersion" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NICheckVersion.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NICheckVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIContext" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAEAIAAAgEAAAgAgACCAgAgQAACBAAQAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NIContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIConvertCoordinates" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAQAAAAAAAg=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NIConvertCoordinates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIImage" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAAAgAAAAAABAAQAACBAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NIImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIOpenNICheckVersion">
+    <Position X="6.5" Y="11.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAABAAAAwAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NIOpenNICheckVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIUserAndSkeleton" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABICAAASAAACAACCABgAgAAQBAAAACYAICBBAAAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\NIUserAndSkeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIWrapperContextDependant" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAEAAAAAAAAABAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\WrapperBaseObjects\NIWrapperContextDependant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIWrapperObject" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQACCAAAAAAAAAAAAAAAAgAAAgAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNI engine\WrapperBaseObjects\NIWrapperObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenNISettingsManager" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAABABAAAgAEAAAAAgBACAABkAoSQBgAAiAABAAAgEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\OpenNISettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIPrimeSenseQuery" Collapsed="true">
+    <Position X="10.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\Queries\NIPrimeSenseQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIQuery" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Basic objects\Queries\NIQuery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIAxis" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAAYQAAAABCAAAAIAgAIAAAACCABCAIAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Input\NIAxis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIInput" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qBYBAhECACiAJSBIQAIACQSEIAgABCxAgBAgAJAYSRA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Input\NIInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonController" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CARABAAAACgEACAAgAAAAAAAIAABAgQgAAAAAEAAAgM=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Skeleton base objects\NISkeletonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonUsersManager" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAQAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Skeleton base objects\NISkeletonUsersManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIUsersToPlayerMapper" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQgAgAAAAAAABBAABAEAAAAAAAAgAAAAAAABAAABEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Skeleton base objects\NIUsersToPlayerMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIGestureFactory" Collapsed="true">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAAAAAggAAAAAAAAIACAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Common gesture classes\NIGestureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIGestureManager" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Common gesture classes\NIGestureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIGestureTracker" Collapsed="true">
+    <Position X="1.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IMAAAEABAAAAAQAAAAAAAAAQAAAAAAQAAAACAAAAgEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Common gesture classes\NIGestureTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIPointTracker">
+    <Position X="3.5" Y="10.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABRBAAQAAEAAIAAAAAAQAAAIgABAAAAABABEAAAFE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\NIPointTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIPointTrackerManager" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAJAAAAAEAAAAAAAAAAAAAAgAAQAAAAAAABAAAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\NIPointTrackerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIPositionTrackerFrameManager" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAEAAiA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\NIPositionTrackerFrameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISteadySkeletonHandDetector" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABEAAAAAAAQAAgAQAAAQIAgAgBAAAAECEAgEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Skeleton based trackers\gestures\Gesture detectors\NISteadySkeletonHandDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISteadySkeletonGestureFactory" Collapsed="true">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQIgAAABAAAAECECAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Skeleton based trackers\gestures\NISteadySkeletonGestureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonTracker">
+    <Position X="3.5" Y="16.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIRAABAgCAAAIAAAAAARAAAIAABAAIAAAAAEAAQDE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Main OpenNI\Trackers\Skeleton based trackers\point trackers\NISkeletonTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallCreator" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAACBAAAAAAQAAARIAAAAAAAAgAACAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Ball Hitting Sample\BallCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JointSpeeder" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Ball Hitting Sample\JointSpeeder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NICollider" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAACAAAAABAAAAAAAAAAAAAQAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Ball Hitting Sample\NICollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIHandPositionInputPositionOnly" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Cursor examples\NIHandPositionInputPositionOnly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIFloorNormalCalculator" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Floor\NIFloorNormalCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUIExample" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAKABAEAAAQAAAQAAAAAgAIAQAACBAAAAABA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\GUI examples\GUIExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkeletonGuiControl" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACABAgAAAAAAAAAQAAAAAAAwAACAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\GUI examples\SkeletonGuiControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogoShower" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAgAACAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\LogoShower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIExitPoseDetector" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAEAAgBIgAAIAgAQAAIAAAgAAAAAIAAAABAAAABhUA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Trackers\Exit pose\NIExitPoseDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIExitPoseGestureFactory" Collapsed="true">
+    <Position X="7.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAgAAAgAAAAAABAAAACAQA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Samples\Trackers\Exit pose\NIExitPoseGestureFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonCalibrationMessageUtility" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAACAAAAAgAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\NISkeletonCalibrationMessageUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonControllerLineDebugger">
+    <Position X="0.5" Y="10.25" Width="2.75" />
+    <NestedTypes>
+      <Class Name="NISkeletonControllerLineDebugger.DebugLineDef" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\NISkeletonControllerLineDebugger.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="NISkeletonControllerLineDebugger.JointInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\NISkeletonControllerLineDebugger.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAQgAAAAAQAAAAAAAAACAAAAAAAACIAAAAgAAAgEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\NISkeletonControllerLineDebugger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NISkeletonControllerLineRenderer">
+    <Position X="0.5" Y="13.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\NISkeletonControllerLineRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIDepthmapViewerUtility" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIAAAAAAMEAABAAAAQAAgAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\Viewers\NIDepthmapViewerUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIImagemapViewerUtility" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\Viewers\NIImagemapViewerUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIMapViewerBaseUtility" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAACAEEAAAgBACQAAgAIgAAAAgAACAAAAAAAE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\Viewers\NIMapViewerBaseUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIRadarViewerUtility" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAACAEAAAAAAAAAAAgAAACAAAgAAGAAAgAAAI=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\Viewers\NIRadarViewerUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIUsermapViewerUtility" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAACAAAAEAIAACAAAAAAAAACAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\Debug utilities\Viewers\NIUsermapViewerUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NITimedPointListUtility" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAABAAAAAAIAAAgQAAAgAABQAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\General utilities\NITimedPointListUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NITimedPointSpeedListUtility" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAQAAAAAAAAAAAAAAAAAAAQAAAAgABABAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\General utilities\NITimedPointSpeedListUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultNIGUICursor" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQQECAAAAAAAggACAEAAAAQAEABAQABICAIgAAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\NIGUI\DefaultNIGUICursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NICursorInitializer" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\NIGUI\NICursorInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIGUI" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACggAAAABAAAAAAJEAoCQKpAAUiBAAAIEAAYAQAAA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\NIGUI\NIGUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIGUICursor" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAECAAAAAAAggAAAAAAAAQAEAAAAABCAAIAAAEA=</HashCode>
+      <FileName>Assets\OpenNI\Scripts\Utilities\NIGUI\NIGUICursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
